@@ -1,13 +1,10 @@
 # My Portfolio Website
-
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a Web Developer.
 
 ## Description
-
 This portfolio website is built using HTML, with styles included directly in the HTML file.  It serves as a personal space to highlight my work.
 
 ## Features
-
 This portfolio website was created using the following technologies and methods:
 
 - **HTML**: The structure of the website is built entirely with HTML. I used semantic HTML elements to ensure the content is well-organized and accessible.
